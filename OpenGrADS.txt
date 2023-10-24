@@ -1,0 +1,8 @@
+Editar o arquivo ".bashrc" no diretório $HOME
+
+##################################################################
+
+#opengrads-2.2.1.oga.1-bundle-x86_64-pc-linux-gnu-glibc_2.17.tar.gz
+export PATH=/home/wrf/Build_WRF/GrADS/Contents:$PATH
+
+##################################################################
